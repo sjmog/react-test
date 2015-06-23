@@ -1,5 +1,5 @@
 # React Test
-Playing with React, [Thoughtbot-style](https://robots.thoughtbot.com/setting-up-webpack-for-react-and-hot-module-replacement)
+Playing with React, [Thoughtbot-style](https://robots.thoughtbot.com/setting-up-webpack-for-react-and-hot-module-replacement).
 
 ### Getting Started
 
